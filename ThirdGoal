@@ -4,7 +4,7 @@ function ThirdGoal() {
   return (
     <div>
       <h2>Goal 3</h2>
-      <p>Build a complete React project</p>
+      <p>get my dream job</p>
     </div>
   );
 }
